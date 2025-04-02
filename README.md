@@ -31,7 +31,7 @@ To download all necessary files (dataset, trained model, additional resources), 
 
 - After downloading:
 
-Place the dataset inside the data/ directory.
+- Place the dataset inside the data/ directory.
 
-Place the trained model (best_model.pkl) inside the models/ directory.
+- Place the trained model (best_model.pkl) inside the models/ directory.
 

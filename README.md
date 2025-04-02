@@ -23,3 +23,15 @@ The model was trained using:
 - K-Nearest Neighbors (KNN)
 
 The best-performing model is saved as models/best_model.pkl.
+
+## 📁 Download Dataset and Pretrained Model
+To download all necessary files (dataset, trained model, additional resources), use the following Google Drive link:
+
+📂 Google Drive Link: [Click Here](https://drive.google.com/drive/folders/1iEuLvwqERhEHTEmC5vn79pMtNRq8X9Ny?usp=sharing)
+
+- After downloading:
+
+Place the dataset inside the data/ directory.
+
+Place the trained model (best_model.pkl) inside the models/ directory.
+

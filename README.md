@@ -8,3 +8,9 @@ This project detects hand gestures in real-time using a webcam and classifies th
 - 🧠 Machine learning classification using **Random Forest, SVM, and KNN**
 - 🎯 Normalization of hand landmarks for accurate prediction
 - ✅ Pre-trained model for quick usage
+
+## 🔍 How It Works
+- MediaPipe Hands detects 21 hand landmarks from a live webcam feed.
+-The landmarks are normalized (relative to the wrist position).
+-The trained machine learning model predicts the gesture based on these landmarks.
+-The predicted gesture is displayed on the webcam feed. 

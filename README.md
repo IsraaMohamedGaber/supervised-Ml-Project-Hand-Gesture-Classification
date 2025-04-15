@@ -3,6 +3,10 @@ Hand Gesture Classification Using MediaPipe Landmarks from the HaGRID Dataset
 
 This project detects hand gestures in real-time using a webcam and classifies them using a machine learning model trained on hand landmark data from **MediaPipe**.
 
+## 🌐 Live Preview
+
+> https://github.com/user-attachments/assets/dd721627-e653-45dc-b975-1e0e4a9dd2dc
+
 ## 📌 Features
 - 📷 Real-time hand tracking using **OpenCV** and **MediaPipe**
 - 🧠 Machine learning classification using **Random Forest, SVM, and KNN**
